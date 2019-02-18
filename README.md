@@ -15,5 +15,17 @@ TCP/IP remains the standard protocol for the Internet
 - 1983: The Domain Name System (DNS) establishes the familiar .edu, .gov, .com, .mil, .org, .net, and .int system for naming websites.
 This is easier to remember than the previous designation for websites, such as 123.456.789.1
 - 1985: Symbolics.com, the website for Symbolics Computer Corp. in Massachusetts, becomes the first registered domain
-                                                             - 
+- 1989:   The World wide web was invented by Sir Timothy John "Tim" Berners-Lee, an engineer and computer scientist from Great Britin, working as a professor at MIT and CERN Laboratory
+- 1991: The first line browser (called www) was used on the CERN network.
+- 1992: WWW browser was available for download via FTP by CERN. This was the big start for the world wide web.
+- 1993: The National Science Foundation created InterNic which consists of three organizations:
+  - AT&T to handle database services
+  - Network Solutions, Inc. to handle host and domain name registrations and IP assignments
+  - General Atomics to handle information services
+- 1994: The Internet grows significantly since it was open for commercial use. The National Science Foundation announced the following four major network access points (NAPS):
+  - San Francisco by Pac Bell
+  - Chicago by Ameritech
+  - New York by Sprint
+  - Washington DC by Metropolitan Fiber Systems        
+
 
