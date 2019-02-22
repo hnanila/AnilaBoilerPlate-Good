@@ -32,3 +32,6 @@
   - Robots.txt: It is a protocol that is a standard used by websites to communicate with web crawlers and other web robot
   - Site.webmaifest: defines  the developers' preferred display mode for the website.
   - Tide-wide. Png:
+  
+  #Web Storm Tutorial 
+    - Step 1: 
