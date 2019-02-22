@@ -132,6 +132,11 @@ Robots.txt: It is a protocol that is a standard used by websites to communicate 
 
 Site.webmaifest: defines  the developers' preferred display mode for the website.
 
-Tide-wide. Png:  
+Tide-wide. Png: 
+
+
+  #Web Storm Tutorial 
+  
+    - Step 1: 
 
 
