@@ -83,6 +83,9 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
  
  P Hello world! This is HTML5 Boilerplate. /p: Starts the paragraph with this name
  
+ script src= "js/vendor/modernizr-((Modernizr_Version)). mini.js"/ Script: It specifies the URL of an external script file which is Modernizr
+ 
+ 
   
 
 
