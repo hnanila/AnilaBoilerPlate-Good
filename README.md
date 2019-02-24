@@ -58,6 +58,10 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
  html class="no-js" lang="" :  This mentions that there is no java script as a language 
 
  head : The heading of the html command page
+ 
+ meta charset="utf-8": That meta tag basically specifies which character set a website is written with. UTF-8 (U from Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode.
+ 
+  Title / title: Title tag of the document 
 
 #GitHub Tutorial
 
