@@ -98,4 +98,12 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 8. Github: 2. Go to webstorm go to  VCS, git then click pull 
 9. Github: 3.  Go to master branch to merge the information from git. Click on master branch to click on merge into current 
 10. Webstorm: 1. Write your code on webstorm on your branch
+11. Webstorm: 2. On webstorm go to VCS, Git, Commit, Write the task you are doing that for that line. Try to commit for every line possible so it will be easier to track your code
+12.  Webstorm: Go to  VCS, git then click push 
+13. Webstorm: Go to master branch to merge the information from git. Click on master branch to click on merge into current 
+
+
+
+
+
 
