@@ -95,8 +95,8 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 2. Create an account on Github by using your email address
 3. Download web storm
 4. Create a repository to start a new project
-5.
-6.
+5. Once you get a git repository, use it to clone it on webstorm
+6.  There two different ways to add your code on github: Webstorm or github (Look at the appropriate program steps you need 
 7.
 8.
 9.
