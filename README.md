@@ -85,9 +85,6 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
  
  script src= "js/vendor/modernizr-((Modernizr_Version)). mini.js"/ Script: It specifies the URL of an external script file which is Modernizr
  
- 
-  
-
 
 #GitHub Tutorial
 
