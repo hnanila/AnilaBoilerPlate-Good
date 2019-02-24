@@ -90,5 +90,11 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 
 1. Download and install the latest version of GIT
 2. Create an account on Github by using your email address
-
-
+3. Download web storm
+4. Create a repository to start a new project
+5.
+6.
+7.
+8.
+9.
+10.
