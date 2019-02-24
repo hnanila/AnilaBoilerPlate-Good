@@ -105,6 +105,25 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 12.  Webstorm: Go to  VCS, git then click push 
 13. Webstorm: Go to master branch to merge the information from git. Click on master branch to click on merge into current 
 
+#GitHub Definitions 
+ - GIT: A distributed version-control system for tracking changes in source code during software development.
+- GIThub: A web-based hosting service for version control using Git. It is mostly used for computer code
+- Repository: Generically refers to a central place where data is stored and maintained
+- Clone: Creates a local copy of a project that already exists remotely. The clone includes all the project’s files, history, and branches.
+- Commit: Saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo.
+- Push: Updates the remote repository with any commits made locally to a branch
+- Pull: Updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+- Branch: Shows each section of being worked on locally.
+- Merge: This command is typically used to combine changes made on two distinct branches. For example, a developer would merge when they want to combine changes from a feature branch into the master branch for deployment.
+- Merge Conflict: Sometimes when you get merge conflicts when merging or pulling from a branch. It will tell you to fix it and and then commit your results. 
+- Fetch: Related to getting, reading, or moving data objects
+- Remote: A user does not have physical access, but which he or she can access or manipulate via some kind of computer network.
+
+
+
+
+
+
 
 
 
