@@ -50,8 +50,9 @@ Robots.txt: It is a protocol that is a standard used by websites to communicate 
 
 Site.webmaifest: defines  the developers' preferred display mode for the website.
 
-Tide-wide. Png:  
+Tile-wide. Png: A tile is an image that represents your app on the start screen 
 
 #GitHub Tutorial
+
 
 
