@@ -96,5 +96,6 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 6.  There two different ways to add your code on github: Webstorm or github (Look at the appropriate program steps you need 
 7. Github: 1. Write your code on github 
 8. Github: 2. Go to webstorm go to  VCS, git then click pull 
-9.
-10.
+9. Github: 3.  Go to master branch to merge the information from git. Click on master branch to click on merge into current 
+10. Webstorm: 1. Write your code on webstorm on your branch
+
