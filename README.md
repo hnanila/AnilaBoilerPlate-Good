@@ -77,6 +77,14 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
  
  meta name="theme-color" content="#fafafa": Says the color name for the meta
  
+ /head: closes the heading
+ 
+ body: The beginning tag for body
+ 
+ P Hello world! This is HTML5 Boilerplate. /p: Starts the paragraph with this name
+ 
+  
+
 
 #GitHub Tutorial
 
