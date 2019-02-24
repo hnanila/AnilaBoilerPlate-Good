@@ -55,6 +55,10 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
 #Index 
 <!doctype html> : it is an instruction to the web browser about what version of HTML the page is written in. 
 
+ html class="no-js" lang="" :  This mentions that there is no java script as a language 
+
+ head : The heading of the html command page
+
 #GitHub Tutorial
 
 
