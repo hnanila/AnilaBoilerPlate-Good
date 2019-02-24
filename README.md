@@ -79,9 +79,9 @@ Robots.txt: It is a protocol that is a standard used by websites to communicate 
 
 Site.webmaifest: defines  the developers' preferred display mode for the website.
 
-Tide-wide. Png:  
+Tide-file. Png: A Tile is an image that represents your app on the Start screen. 
 
-Boilerplate Definitions 
+#Boilerplate Definitions 
 
 Doc:  filename extension for word processing documents
 
