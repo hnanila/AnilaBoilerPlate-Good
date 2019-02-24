@@ -62,6 +62,11 @@ Tile-wide. Png: A tile is an image that represents your app on the start screen
  meta charset="utf-8": That meta tag basically specifies which character set a website is written with. UTF-8 (U from Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode.
  
   Title / title: Title tag of the document 
+ 
+ meta name="description" content="": The meta tag provides metadata about the HTML document. ... Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata. 
+  
+ Meta name="viewport" content="width=device-width, initial-scale=1": The meta specifies to name it viewpoer and speciifies the scale it should have
+  
 
 #GitHub Tutorial
 
