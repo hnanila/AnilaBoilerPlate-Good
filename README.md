@@ -52,6 +52,8 @@ Site.webmaifest: defines  the developers' preferred display mode for the website
 
 Tile-wide. Png: A tile is an image that represents your app on the start screen 
 
+#Index 
+
 #GitHub Tutorial
 
 
