@@ -132,11 +132,103 @@ Robots.txt: It is a protocol that is a standard used by websites to communicate 
 
 Site.webmaifest: defines  the developers' preferred display mode for the website.
 
-Tide-wide. Png: 
+Tile-wide. Png: A tile is an image that represents your app on the start screen 
 
 
-  #Web Storm Tutorial 
+  #Index 
   
-    - Step 1: 
+ <!doctype html> : it is an instruction to the web browser about what version of HTML the page is written in. 
+
+ html class="no-js" lang="" :  This mentions that there is no java script as a language 
+
+ head : The heading of the html command page
+ 
+ meta charset="utf-8": That meta tag basically specifies which character set a website is written with. UTF-8 (U from Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode.
+ 
+  Title  /title: Title tag of the document 
+ 
+ meta name="description" content="": The meta tag provides metadata about the HTML document. ... Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata. 
+  
+ Meta name="viewport" content="width=device-width, initial-scale=1": The meta specifies to name it viewpoer and speciifies the scale it should have
+ 
+  link rel="manifest" href="site.webmanifest": It mentions the link and the link name
+ 
+ link rel="apple-touch-icon" href="icon.png": It mentions the link and the link name
+ 
+ link rel="stylesheet" href="css/normalize.css":It mentions the link and the link name
+ 
+ link rel="stylesheet" href="css/main.css": It mentions the link and the link name
+ 
+ meta name="theme-color" content="#fafafa": Says the color name for the meta
+ 
+ /head: closes the heading
+ 
+ body: The beginning tag for body
+ 
+ P Hello world! This is HTML5 Boilerplate. /p: Starts the paragraph with this name
+ 
+ script src= "js/vendor/modernizr-((Modernizr_Version)). mini.js"/ Script: It specifies the URL of an external script file which is Modernizr
+ 
+ #GitHub Tutorial
+
+1. Download and install the latest version of GIT
+
+2. Create an account on Github by using your email address
+
+3. Download web storm
+
+4. Create a repository to start a new project
+
+5. Once you get a git repository, use it to clone it on webstorm
+
+6.  There two different ways to add your code on github: Webstorm or github (Look at the appropriate program steps you need
+
+7. Github: 1. Write your code on github 
+
+8. Github: 2. Go to webstorm go to  VCS, git then click pull 
+
+9. Github: 3.  Go to master branch to merge the information from git. Click on master branch to click on merge into current 
+
+10. Webstorm: 1. Write your code on webstorm on your branch
+
+11. Webstorm: 2. On webstorm go to VCS, Git, Commit, Write the task you are doing that for that line. Try to commit for every line possible so it will be easier to track your code
+
+12.  Webstorm: Go to  VCS, git then click push 
+
+13. Webstorm: Go to master branch to merge the information from git. Click on master branch to click on merge into current 
+
+
+
+#GitHub Definitions 
+
+ - GIT: A distributed version-control system for tracking changes in source code during software development.
+ 
+- GIThub: A web-based hosting service for version control using Git. It is mostly used for computer code
+
+- Repository: Generically refers to a central place where data is stored and maintained
+
+- Clone: Creates a local copy of a project that already exists remotely. The clone includes all the project’s files, history, and branches.
+
+- Commit: Saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo.
+
+- Push: Updates the remote repository with any commits made locally to a branch
+
+- Pull: Updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+
+- Branch: Shows each section of being worked on locally.
+
+- Merge: This command is typically used to combine changes made on two distinct branches. For example, a developer would merge when they want to combine changes from a feature branch into the master branch for deployment.
+
+- Merge Conflict: Sometimes when you get merge conflicts when merging or pulling from a branch. It will tell you to fix it and and then commit your results. 
+
+- Fetch: Related to getting, reading, or moving data objects
+
+- Remote: A user does not have physical access, but which he or she can access or manipulate via some kind of computer network.
+
+
+
+   
+  
+  
 
 
