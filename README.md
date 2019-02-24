@@ -29,57 +29,59 @@ This is easier to remember than the previous designation for websites, such as 1
   - Washington DC by Metropolitan Fiber Systems 
   
   
-Boilerplate Definitions 
-Doc:  filename extension for word processing documents
+#Boilerplate Definitions 
 
-Toc.md : Table of contents 
+- Doc:  filename extension for word processing documents
 
-Css.md: cascading style sheets are used to format the layout of web pages
+- Toc.md : Table of contents 
 
-Extend.md: is a feature in a computer  that allows a user to extend viewing capabilities by using two or more monitors at the same time
+- Css.md: cascading style sheets are used to format the layout of web pages
 
-Faq.md: Frequently answered questions they are created for software programs, computer hardware, websites, and online services.
+- Extend.md: is a feature in a computer  that allows a user to extend viewing capabilities by using two or more monitors at the same time
 
-Html.md: Hypertext markup language to format text and graphics 
+- Faq.md: Frequently answered questions they are created for software programs, computer hardware, websites, and online services.
 
-Js.md: Javascript is a programming language commonly used for web development
+- Html.md: Hypertext markup language to format text and graphics 
 
-Misc.md: Minimal instruction set computer is a processor architecture with a very small number of basic operations and corresponding opcodes
+- Js.md: Javascript is a programming language commonly used for web development
 
-Usage.md: To set the basic structure, add some site, run your site, and deploy your site
+- Misc.md: Minimal instruction set computer is a processor architecture with a very small number of basic operations and corresponding opcodes
 
-Img: Image stored in a computer device
+- Usage.md: To set the basic structure, add some site, run your site, and deploy your site
 
-.gitignore: file specifies intentionally untracked files that Git should ignore
+- Img: Image stored in a computer device
 
-Js: Javascript is a programming language commonly used for web development
+- .gitignore: file specifies intentionally untracked files that Git should ignore
 
-Main.js: It is used for initialization, and the other files contain application logic
+- Js: Javascript is a programming language commonly used for web development
 
-Plugins.js: a common code written in javascript which can be used in website development instead of writing our own javascript code
-.editorconfig:project: consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
+- Main.js: It is used for initialization, and the other files contain application logic
 
-.gitattributes: is a simple text file that gives attributes to pathnames.
+- Plugins.js: a common code written in javascript which can be used in website development instead of writing our own javascript code
 
-.gitignore: file specifies intentionally untracked files that Git should ignore
+- .editorconfig:project: consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
 
-404.html: is an error that is displayed when the server fails to locate the page or file that the user requests.
+- .gitattributes: is a simple text file that gives attributes to pathnames.
 
-Browserconfig.html: define site conformations such as notifications 
+- .gitignore: file specifies intentionally untracked files that Git should ignore
 
-Favicon.ico: a small icon that identifies a website in a web browser
+- 404.html: is an error that is displayed when the server fails to locate the page or file that the user requests.
 
-Humans.txt:  a representation of data or information that can be naturally read by humans. 
+- Browserconfig.html: define site conformations such as notifications 
 
-Icon.png: your computer screen represents an object or a program on your hard drive. 
+- Favicon.ico: a small icon that identifies a website in a web browser
 
-Index.html: the front page. It is the URL or local file that automatically loads when a web browser starts and when the browser's 'home' button is pressed.
+- Humans.txt:  a representation of data or information that can be naturally read by humans. 
 
-Robots.txt: It is a protocol that is a standard used by websites to communicate with web crawlers and other web robot.
+- Icon.png: your computer screen represents an object or a program on your hard drive. 
 
-Site.webmaifest: defines  the developers' preferred display mode for the website.
+- Index.html: the front page. It is the URL or local file that automatically loads when a web browser starts and when the browser's 'home' button is pressed.
 
-Tide-file. Png: A Tile is an image that represents your app on the Start screen. 
+- Robots.txt: It is a protocol that is a standard used by websites to communicate with web crawlers and other web robot.
+
+- Site.webmaifest: defines  the developers' preferred display mode for the website.
+
+- Tide-file. Png: A Tile is an image that represents your app on the Start screen. 
 
 #Boilerplate Definitions 
 
