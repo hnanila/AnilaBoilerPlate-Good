@@ -175,31 +175,31 @@ This is easier to remember than the previous designation for websites, such as 1
  # GitHub Tutorial
 
 1. Download and install the latest version of GIT
-
+![alt.text](img/github1.png "github1") 
 2. Create an account on Github by using your email address
-
+![alt.text](img/joingithub.png "joingithub")
 3. Download web storm
-
+![alt.text](img/webstorm.png "webstorm")
 4. Create a repository to start a new project
-
+![alt.text](img/repository.png "repository")
 5. Once you get a git repository, use it to clone it on webstorm
-
+![alt.text](img/clone.png "clone")
 6.  There two different ways to add your code on github: Webstorm or github (Look at the appropriate program steps you need
-
+![alt.text](img/cod.png "cod")
 7. Github: 1. Write your code on github 
-
+![alt.text](img/writecode.png "writecode")
 8. Github: 2. Go to webstorm go to  VCS, git then click pull 
-
+![alt.text](img/pull.png "pull")
 9. Github: 3.  Go to master branch to merge the information from git. Click on master branch to click on merge into current 
-
+![alt.text](img/merge.png "merge")
 10. Webstorm: 1. Write your code on webstorm on your branch
-
+![alt.text](img/webstormcode.png "webstormcode")
 11. Webstorm: 2. On webstorm go to VCS, Git, Commit, Write the task you are doing that for that line. Try to commit for every line possible so it will be easier to track your code
-
+![alt.text](img/CommitWeb.png "CommitWeb")
 12.  Webstorm: Go to  VCS, git then click push 
-
+![alt.text](img/VCSGITPUSH.png "VCSGITPUSH")
 13. Webstorm: Go to master branch to merge the information from git. Click on master branch to click on merge into current 
-
+![alt.text[(img/MergeIntoCurrent.png "MergeIntoCurrent"
 
 
 # GitHub Definitions 
